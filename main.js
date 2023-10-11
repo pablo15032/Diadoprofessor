@@ -12,6 +12,7 @@ document.addEventListener("DOMContentLoaded", function () {
         "Neste Dia dos Professores, quero expressar minha mais profunda gratidão por tudo o que vocês fazem. " +
         "Vocês são faróis de luz na jornada educacional de todos nós, iluminando o caminho com sabedoria e compreensão. " +
         "Obrigado por inspirarem, orientarem e ajudarem a construir um futuro melhor para todos. " +
+        "Aos mestres que iluminam caminhos e moldam mentes, feliz dia dos professores. " +
         "Feliz Dia dos Professores!";
     });
 });
